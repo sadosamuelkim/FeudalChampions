@@ -1,4 +1,4 @@
-public class Champion implements ICharacter
+public class Champion
 {
 	public int Level;
 

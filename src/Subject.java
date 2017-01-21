@@ -1,5 +1,5 @@
 
-public class Subject implements ICharacter
+public class Subject
 {
 	public void Control() 
 	{

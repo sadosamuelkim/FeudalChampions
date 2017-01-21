@@ -1,5 +1,4 @@
-
-public class Skill implements IAsset
+public class Skill extends Card implements IAsset
 {
 	public Skill() 
 	{
@@ -7,4 +6,18 @@ public class Skill implements IAsset
 		
 	}
 
+	/*
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 */
+	
+	
+	public void Play(GridBox PlayingField, int GridNumber) 
+	{
+		
+		
+	}
 }
